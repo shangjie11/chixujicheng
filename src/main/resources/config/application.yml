@@ -1,0 +1,22 @@
+spring.profiles.active: dev
+server:
+  port: 9999
+  context-path: /moatest
+
+book:
+  author: wangyunfei
+  name: spring boot
+
+books:
+  name: shangjie
+  bookname: kongchenglidexue
+
+shangjie:
+  name: shangjie
+  age: 24
+  height: 173
+  weight: 120
+
+logging:
+  config: classpath:config/logback-spring.xml
+

@@ -1,0 +1,32 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "config.AuthorInfo",
+      "name": "shangjie",
+      "type": "config.AuthorInfo"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "config.AuthorInfo",
+      "name": "shangjie.age",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "config.AuthorInfo",
+      "name": "shangjie.height",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "config.AuthorInfo",
+      "name": "shangjie.name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "config.AuthorInfo",
+      "name": "shangjie.weight",
+      "type": "java.lang.String"
+    }
+  ]
+}
