@@ -17,6 +17,7 @@ public class OutLogging {
     @RequestMapping("/outlogging")
     public String outLogging(){
         logger.debug("测试日志");
+		logger.debug("测试git代码提交更新");
         return "hello";
     }
 }
